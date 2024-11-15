@@ -1,0 +1,7 @@
+dataset*/
+.env/
+.venv/
+transfer_learning/
+checkpoints/
+annotations*/
+train2014*/

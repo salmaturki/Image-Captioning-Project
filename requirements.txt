@@ -1,0 +1,17 @@
+ipykernel
+tensorflow[and-cuda]
+matplotlib
+numpy
+pillow
+scikit-learn
+pandas
+imageio
+onedrivedownloader
+py7zr
+keras
+seaborn
+keras-tuner
+python-magic
+#fastdup
+visualkeras
+nltk
